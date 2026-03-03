@@ -4,7 +4,7 @@ print("HElloooo!!!")
 print("HElloooo!!!")
 
 # ----------MAIN CODE----------------------
-print("Maria")
+print("Alex")
 # --------------------------------
 
 
@@ -17,3 +17,4 @@ print("HElloooo!!!")
 print("MY code IS THE BEST")
 print("MY code IS THE BEST")
 print("MY code IS THE BEST")
+print("New code, its over!!!")

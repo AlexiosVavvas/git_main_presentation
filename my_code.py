@@ -4,7 +4,7 @@ print("HElloooo!!!")
 print("HElloooo!!!")
 
 # ----------MAIN CODE----------------------
-print()
+print("Alex")
 # --------------------------------
 
 
@@ -14,4 +14,4 @@ print("HElloooo!!!")
 
 
 
-print("New code here")
+print("New code, its over!!!")
